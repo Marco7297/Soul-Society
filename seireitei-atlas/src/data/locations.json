@@ -1,0 +1,485 @@
+[
+  {
+    "id": "seireitei-outer-wall-four-gates",
+    "name": "Seireitei Outer Wall & Four Gates",
+    "jp": "瀞霊廷外壁 / 四大瀞霊門",
+    "region": "Seireitei",
+    "position": {
+      "x": 50,
+      "y": 54
+    },
+    "cameraPose": {
+      "x": 50,
+      "y": 54,
+      "zoom": 1.16
+    },
+    "modelComponent": "WallSegment + Gate + Lantern",
+    "summary": "The fortified threshold between Rukongai and the Shinigami capital.",
+    "architecture": "Massive Sekkiseki slabs form the Seireiheki, with four guarded entrances arranged to the north, east, south and west. A spherical barrier extends the defensive logic beyond the wall.",
+    "purpose": "Regulates entry into Seireitei and limits unauthorized spiritual approach.",
+    "residents": [
+      "Jidanbō Ikkanzaka — western gatekeeper",
+      "Higonyūdō — southern gatekeeper",
+      "Danzōmaru — northern gatekeeper",
+      "Kaiwan — eastern gatekeeper"
+    ],
+    "events": [
+      "Ichigo and his companions reach the western White Road Gate during the Soul Society arc.",
+      "Jidanbō lifts the gate after his defeat, but Gin Ichimaru intervenes and blocks the entry."
+    ],
+    "trivia": "Each enormous gate has a smaller built-in door for ordinary passage.",
+    "spoilerLevel": "Soul Society arc",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Seireitei",
+      "https://bleach.fandom.com/wiki/Gatekeepers",
+      "https://bleach.fandom.com/wiki/Chapter_72",
+      "https://www.viz.com/shonenjump/bleach-chapter-72/chapter/14289"
+    ],
+    "details": "Massive Sekkiseki slabs form the Seireiheki, with four guarded entrances arranged to the north, east, south and west. A spherical barrier extends the defensive logic beyond the wall. Regulates entry into Seireitei and limits unauthorized spiritual approach.",
+    "images": [
+      {
+        "url": "/seireitei-gate.webp",
+        "title": "Outer Pure Soul Gate",
+        "caption": "Massive Sekkiseki portal and stone ramparts guarding the threshold between Rukongai and the capital."
+      },
+      {
+        "url": "/seireitei-opening-gate.webp",
+        "title": "Ceremonial Threshold Passage",
+        "caption": "Parting double doors of the inner barrier revealing the rising central pagoda towers beyond."
+      },
+      {
+        "url": "/seireitei-home.webp",
+        "title": "Perimeter Wall & Floating Citadel",
+        "caption": "Broad aerial perspective of the circular Sekkiseki fortification shielding the inner citadel above clouds."
+      }
+    ]
+  },
+  {
+    "id": "sokyoku-hill",
+    "name": "Sōkyoku Hill",
+    "jp": "双殛の丘",
+    "region": "Seireitei / Central Rise",
+    "position": {
+      "x": 57,
+      "y": 37
+    },
+    "cameraPose": {
+      "x": 57,
+      "y": 37,
+      "zoom": 1.28
+    },
+    "modelComponent": "Tower + Pagoda + Lantern",
+    "summary": "A rocky execution mesa overlooking the centre of Seireitei.",
+    "architecture": "The hill rises as a sheer-sided mesa, reached by a long bridge from Senzaikyū and a zigzag stair cut into the rock. A cave below opens into a large training chamber.",
+    "purpose": "Hosts the execution of Shinigami convicted of severe offences and contains a former Bankai training ground.",
+    "residents": [
+      "Rukia Kuchiki — condemned prisoner",
+      "Ichigo Kurosaki — rescuer and combatant",
+      "Jūshirō Ukitake and Shunsui Kyōraku — captains who intervene"
+    ],
+    "events": [
+      "Rukia’s execution ceremony is held at the hill and Ichigo stops the Sōkyoku.",
+      "Ichigo and Byakuya’s decisive Soul Society arc battle takes place at the site."
+    ],
+    "trivia": "The underground chamber was later used by Ichigo and Renji for Bankai training.",
+    "spoilerLevel": "Soul Society arc",
+    "sources": [
+      "https://bleach.fandom.com/wiki/S%C5%8Dkyoku_Hill",
+      "https://bleach.fandom.com/wiki/S%C5%8Dkyoku",
+      "https://bleach.fandom.com/wiki/Seireitei"
+    ],
+    "details": "The hill rises as a sheer-sided mesa, reached by a long bridge from Senzaikyū and a zigzag stair cut into the rock. A cave below opens into a large training chamber. Hosts the execution of Shinigami convicted of severe offences and contains a former Bankai training ground.",
+    "images": [
+      {
+        "url": "/location-sokyoku-hill.webp",
+        "title": "Execution Mesa & Sōkyoku Stand",
+        "caption": "The windswept plateau overlooking Seireitei where the legendary execution halberd is anchored."
+      },
+      {
+        "url": "/seireitei-home.webp",
+        "title": "Central Prominence",
+        "caption": "The distinctive rocky rise at the heart of Seireitei visible above the rooftops."
+      },
+      {
+        "url": "/seireitei-palace.webp",
+        "title": "Horizon of the High Sanctuary",
+        "caption": "Distant view of the central citadel spires as seen across the high plateaus of the Central Rise."
+      }
+    ]
+  },
+  {
+    "id": "senzaikyu",
+    "name": "Senzaikyū / Tower of Penitence",
+    "jp": "懺罪宮",
+    "region": "Seireitei / Central Rise",
+    "position": {
+      "x": 43,
+      "y": 33
+    },
+    "cameraPose": {
+      "x": 43,
+      "y": 33,
+      "zoom": 1.34
+    },
+    "modelComponent": "Tower + WallSegment",
+    "summary": "The white prison tower linked to the Sōkyoku Hill by a ceremonial bridge.",
+    "architecture": "A tall white tower at Seireitei’s centre contains the Sekkiseki-lined Shishinrō, whose mineral walls suppress spiritual power and disrupt spiritual sensing.",
+    "purpose": "Holds condemned criminals before transfer to Sōkyoku Hill for execution under Central 46 authority.",
+    "residents": [
+      "Rukia Kuchiki — held in the Shishinrō",
+      "Other unnamed Shinigami condemned to Sōkyoku execution"
+    ],
+    "events": [
+      "Rukia’s sentence and revised execution date are announced while she is confined here.",
+      "The procession from the Shishinrō across the bridge begins the execution sequence interrupted by Ichigo."
+    ],
+    "trivia": "The descriptive fan label ‘Tower of Penitence’ sits alongside translations such as ‘Palace of Penitence’.",
+    "spoilerLevel": "Soul Society arc",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Senzaiky%C5%AB",
+      "https://bleach.fandom.com/wiki/Sekkiseki",
+      "https://bleach.fandom.com/wiki/Rukia%27s_Execution",
+      "https://www.viz.com/shonenjump/bleach-chapter-115/chapter/14334"
+    ],
+    "details": "A tall white tower at Seireitei’s centre contains the Sekkiseki-lined Shishinrō, whose mineral walls suppress spiritual power and disrupt spiritual sensing. Holds condemned criminals before transfer to Sōkyoku Hill for execution under Central 46 authority.",
+    "images": [
+      {
+        "url": "/location-senzaikyu.webp",
+        "title": "Tower of Penitence & Causeway",
+        "caption": "The isolated white stone tower rising out of the mist, connected solely by a narrow guarded bridge."
+      },
+      {
+        "url": "/location-sokyoku-hill.webp",
+        "title": "Bridge Connection to Sōkyoku",
+        "caption": "Ceremonial bridge spanning the chasm from Senzaikyū toward the execution grounds."
+      },
+      {
+        "url": "/seireitei-promenade.webp",
+        "title": "Skyway Approach",
+        "caption": "Elevated balustrades and lantern columns running toward the central rise and restricted zones."
+      }
+    ]
+  },
+  {
+    "id": "shino-academy",
+    "name": "Shin’ō Academy",
+    "jp": "真央霊術院",
+    "region": "Seireitei / Academy Quarter",
+    "position": {
+      "x": 74,
+      "y": 57
+    },
+    "cameraPose": {
+      "x": 74,
+      "y": 57,
+      "zoom": 1.12
+    },
+    "modelComponent": "Pagoda + TieredRoof + Lantern",
+    "summary": "Soul Society’s principal school for spiritually gifted souls entering service.",
+    "architecture": "A large multi-level complex with an open courtyard, classrooms, dormitories and dedicated spaces for swordsmanship, hand-to-hand combat, movement arts and Kidō.",
+    "purpose": "A standard six-year course prepares students for the Gotei 13, Kidō Corps or Onmitsukidō through Reiatsu control, Hakuda, Hōhō, Kidō, Zanjutsu and Soul Burial.",
+    "residents": [
+      "Genryūsai Shigekuni Yamamoto — founder and former grandmaster",
+      "Renji Abarai, Rukia Kuchiki, Momo Hinamori and Izuru Kira — notable students",
+      "Shunsui Kyōraku and Jūshirō Ukitake — notable graduates"
+    ],
+    "events": [
+      "Renji and Rukia’s academy years shape their early Soul Society history.",
+      "An academy practical exercise involving Momo, Renji and Kira is interrupted by enormous Hollows."
+    ],
+    "trivia": "The formal name means Spiritual Arts Academy; the older ‘Shinigami Academy’ label remains widely used.",
+    "spoilerLevel": "All",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Shin%27%C5%8D_Academy",
+      "https://bleach.fandom.com/wiki/Seireitei",
+      "https://bleach-anime.com/en/character/",
+      "https://www.viz.com/shonenjump/bleach-chapter-98/chapter/14317"
+    ],
+    "details": "A large multi-level complex with an open courtyard, classrooms, dormitories and dedicated spaces for swordsmanship, hand-to-hand combat, movement arts and Kidō. A standard six-year course prepares students for the Gotei 13, Kidō Corps or Onmitsukidō through Reiatsu control, Hakuda, Hōhō, Kidō, Zanjutsu and Soul Burial.",
+    "images": [
+      {
+        "url": "/location-shino-academy.webp",
+        "title": "Courtyard & Training Dojos",
+        "caption": "Spiritual Arts Academy grounds with cherry blossom trees and open-air Zanjutsu training pavilions."
+      },
+      {
+        "url": "/seireitei-library.webp",
+        "title": "Grand Archival Hall",
+        "caption": "The Academy archives housing ancient Kidō scrolls, tactical maps, and soul burial records."
+      },
+      {
+        "url": "/seireitei-main-building.webp",
+        "title": "Academic Faculty Complex",
+        "caption": "Multi-tiered administrative pagodas and lecture quarters for instructors and senior instructors."
+      }
+    ]
+  },
+  {
+    "id": "first-division-barracks-captains-meeting-hall",
+    "name": "1st Division Barracks",
+    "jp": "一番隊舎 / 隊首会議室",
+    "region": "Seireitei / Gotei Quarter",
+    "position": {
+      "x": 27,
+      "y": 65
+    },
+    "cameraPose": {
+      "x": 27,
+      "y": 65,
+      "zoom": 1.18
+    },
+    "modelComponent": "TieredRoof + WallSegment + Lantern",
+    "summary": "The First Division headquarters and formal meeting place of the Gotei 13 captains.",
+    "architecture": "A barracks compound of offices and living quarters organised around the captains’ assembly hall, a separate lieutenants’ room and the Captain-Commander’s office.",
+    "purpose": "Houses First Division administration and hosts formal councils about division affairs and threats to Soul Society.",
+    "residents": [
+      "Shunsui Kyōraku — Captain-Commander and First Division captain",
+      "Nanao Ise and Genshirō Okikiba — co-lieutenants",
+      "Genryūsai Yamamoto — former Captain-Commander"
+    ],
+    "events": [
+      "The hall hosts the Gotei 13’s formal captains’ council.",
+      "After Yamamoto’s death, his broken Ryūjin Jakka is returned to the First Division Barracks."
+    ],
+    "trivia": "A separate room is used for lieutenants’ meetings, keeping the command structure legible even in miniature.",
+    "spoilerLevel": "All",
+    "sources": [
+      "https://bleach.fandom.com/wiki/First_Division",
+      "https://bleach.fandom.com/wiki/Gotei_13",
+      "https://bleach.fandom.com/wiki/Seireitei"
+    ],
+    "details": "A barracks compound of offices and living quarters organised around the captains’ assembly hall, a separate lieutenants’ room and the Captain-Commander’s office. Houses First Division administration and hosts formal councils about division affairs and threats to Soul Society.",
+    "images": [
+      {
+        "url": "/seireitei-main-building.webp",
+        "title": "1st Division Headquarters Compound",
+        "caption": "The majestic multi-tiered command citadel flying the official First Division standard."
+      },
+      {
+        "url": "/seireitei-throne-hall.webp",
+        "title": "Captains' Council Chamber",
+        "caption": "The grand assembly hall where all 13 Division Captains convene for emergency war councils."
+      },
+      {
+        "url": "/seireitei-promenade.webp",
+        "title": "Grand Processional Axis",
+        "caption": "Ceremonial walkway lined with blue division banners leading directly to the First Division estate."
+      }
+    ]
+  },
+  {
+    "id": "fourth-division-relief-station",
+    "name": "4th Division Relief Station",
+    "jp": "総合救護詰所",
+    "region": "Seireitei / Medical Quarter",
+    "position": {
+      "x": 78,
+      "y": 76
+    },
+    "cameraPose": {
+      "x": 78,
+      "y": 76,
+      "zoom": 1.2
+    },
+    "modelComponent": "TieredRoof + Lantern + Tower",
+    "summary": "The Gotei 13’s principal emergency-care and recovery facility.",
+    "architecture": "A traditional division-barracks compound combines offices and living quarters with wards, treatment rooms, beds, stretchers and numbered inpatient rooms.",
+    "purpose": "Fourth Division relief teams provide battlefield first aid, transport, healing Kidō, surgery, Reiatsu care and inpatient support.",
+    "residents": [
+      "Retsu Unohana — former Fourth Division captain",
+      "Isane Kotetsu — later captain",
+      "Hanatarō Yamada — officer and relief-team leader",
+      "Fourth Division nurses and healers"
+    ],
+    "events": [
+      "After the first Wandenreich invasion, the station receives a surge of wounded Shinigami.",
+      "Rukia and Renji recover there after critical surgery and Reiatsu treatment."
+    ],
+    "trivia": "The station’s nurses are visually distinguished by pink Shihakushō and nurse-style hats.",
+    "spoilerLevel": "All",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Fourth_Division",
+      "https://bleach.fandom.com/wiki/Seireitei",
+      "https://www.cbr.com/bleach-squad-4-retsu-unohana-medical-roles-explained/"
+    ],
+    "details": "A traditional division-barracks compound combines offices and living quarters with wards, treatment rooms, beds, stretchers and numbered inpatient rooms. Fourth Division relief teams provide battlefield first aid, transport, healing Kidō, surgery, Reiatsu care and inpatient support.",
+    "images": [
+      {
+        "url": "/location-relief-station.webp",
+        "title": "4th Division Healing Wards",
+        "caption": "Tranquil recovery courtyard with drying medicinal herbs, tatami wards, and healing Kidō stations."
+      },
+      {
+        "url": "/seireitei-library.webp",
+        "title": "Medical Records & Herbal Archive",
+        "caption": "Dispensary library where historical healing techniques, spiritual anatomy records, and antidotes are cataloged."
+      },
+      {
+        "url": "/seireitei-main-building.webp",
+        "title": "Medical Quarter Boundary",
+        "caption": "Traditional wooden barracks corridors connecting inpatient pavilions to the central command path."
+      }
+    ]
+  },
+  {
+    "id": "reiokyu-soul-king-palace",
+    "name": "Reiōkyū (Soul King Palace)",
+    "jp": "霊王宮 / 五離殿",
+    "region": "Royal Realm / High Heavens",
+    "position": {
+      "x": 50,
+      "y": 18
+    },
+    "cameraPose": {
+      "x": 50,
+      "y": 18,
+      "zoom": 1.3
+    },
+    "modelComponent": "TieredRoof + PalaceDome + Gate",
+    "summary": "The celestial royal domain floating above Soul Society, housing the Soul King and the five palaces of Squad Zero.",
+    "architecture": "Five circular floating disc cities (Kirinden, Gatonden, Hōōden, Senjumaru Palace, and Hyōsube Sanctuary) orbit the central Great Soul King Palace above a sea of spiritual clouds and cascading waterfalls.",
+    "purpose": "Maintains the cosmic equilibrium of the Three Realms (Human World, Soul Society, and Hueco Mundo) through the spiritual anchor of the Soul King, guarded exclusively by the Royal Guard.",
+    "residents": [
+      "Reiō — The Soul King and linchpin of existence",
+      "Ichibē Hyōsube — Monk Who Calls the Real Name (Leader of Squad Zero)",
+      "Ōetsu Nimaiya — Sword God & creator of all Zanpakutō and Asauchi",
+      "Tenjirō Kirinji — Hot Spring Demon & healing pioneer",
+      "Kirio Hikifune — Ruler of Grain & creator of artificial souls",
+      "Senjumaru Shutara — Great Weave Guard & royal weaver"
+    ],
+    "events": [
+      "Following the first Quincy assault on Seireitei, Squad Zero arrives via the Tenchūren pillar palanquin to bring Ichigo, Rukia, Renji, and Byakuya to the Royal Realm for divine recovery.",
+      "Ichigo learns his Quincy heritage at the Hōōden forge, discovering the truth of Old Man Zangetsu and forging his true dual blades.",
+      "Yhwach and his Schutzstaffel invade the palace, leading to the climactic clash where Senjumaru Shutara unleashes her universe-shaking Bankai Shatshu Gagara Garami."
+    ],
+    "trivia": "The five members of the Royal Guard possess combined combat capability exceeding that of the entire Gotei 13's thirteen divisions combined.",
+    "spoilerLevel": "TYBW arc",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Soul_King_Palace",
+      "https://bleach.fandom.com/wiki/Royal_Guard"
+    ],
+    "details": "The ultimate spiritual realm floating in a separate dimensional stratosphere above Seireitei, protected by 72 layered spiritual barriers. Only those whose bones have been infused with the Ōken (Royal Key) may pass without triggering automatic vaporization.",
+    "images": [
+      {
+        "url": "/seireitei-reiokyu.webp",
+        "title": "The Five Palaces of Squad Zero",
+        "caption": "Sacred disc cities orbiting the Great Soul King Palace above heavenly clouds and cascading spiritual waterfalls."
+      },
+      {
+        "url": "/seireitei-palace.webp",
+        "title": "High Sacred Sanctuary",
+        "caption": "The central elevated palace overlooking the infinite spiritual horizon of Soul Society."
+      },
+      {
+        "url": "/seireitei-home.webp",
+        "title": "View Down to Seireitei",
+        "caption": "The vast circular capital of Seireitei far below the 72 layered spiritual barriers."
+      }
+    ]
+  },
+  {
+    "id": "sixth-division-barracks",
+    "name": "6th Division Barracks & Kuchiki Manor",
+    "jp": "六番隊舎 / 朽木家",
+    "region": "Seireitei / Gotei Quarter",
+    "position": {
+      "x": 47,
+      "y": 66
+    },
+    "cameraPose": {
+      "x": 47,
+      "y": 66,
+      "zoom": 1.2
+    },
+    "modelComponent": "TieredRoof + WallSegment + Sakura",
+    "summary": "Headquarters of the internal-enforcement Sixth Division and ancestral sakura gardens of the noble Kuchiki Clan.",
+    "architecture": "Traditional aristocratic wooden compounds framed by walled koi ponds, stone lanterns, and centuries-old cherry blossom groves lining the Gotei promenade.",
+    "purpose": "Enforces Gotei 13 internal discipline, safeguards noble decrees, and maintains detention quarters alongside the Kuchiki estate.",
+    "residents": [
+      "Byakuya Kuchiki — 28th Head of the Kuchiki Clan & 6th Division Captain",
+      "Renji Abarai — 6th Division Lieutenant",
+      "Ginrei Kuchiki — former Captain and clan elder"
+    ],
+    "events": [
+      "Renji Abarai attains his resolve to surpass Byakuya within the quiet sakura courtyards before the Ryōka crisis.",
+      "The Sixth Division deploys along the central promenade and Sōkyoku perimeter to uphold Rukia Kuchiki’s custody decree."
+    ],
+    "trivia": "Byakuya Kuchiki’s personal scarves and ancestral crest (Ginpakukazahana) rank among the most valuable aristocratic artifacts in Seireitei.",
+    "spoilerLevel": "All",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Sixth_Division",
+      "https://bleach.fandom.com/wiki/Kuchiki_Clan",
+      "https://bleach.fandom.com/wiki/Seireitei"
+    ],
+    "details": "Bridges Gotei military oversight and Great Noble governance, pairing austere judicial administration with serene cherry-blossom courtyards along the Seireitei promenade.",
+    "images": [
+      {
+        "url": "/seireitei-promenade.webp",
+        "title": "Sakura Promenade & Koi Quarter",
+        "caption": "Ceremonial thoroughfare and lantern-lit courtyards adjoining the Sixth Division and Kuchiki estate."
+      },
+      {
+        "url": "/seireitei-main-building.webp",
+        "title": "6th Division Administrative Complex",
+        "caption": "Multi-tiered dark timber and cobalt tile pavilions housing internal discipline archives and training halls."
+      },
+      {
+        "url": "/seireitei-home.webp",
+        "title": "Inner Gotei District Panorama",
+        "caption": "Aerial perspective across the noble estates and Gotei division barracks within the inner Sekkiseki ring."
+      }
+    ]
+  },
+  {
+    "id": "central-46-chamber",
+    "name": "Central 46 Judicial Compound",
+    "jp": "中央四十六室 / 清浄塔居林",
+    "region": "Seireitei / Central Rise",
+    "position": {
+      "x": 50,
+      "y": 46
+    },
+    "cameraPose": {
+      "x": 50,
+      "y": 46,
+      "zoom": 1.32
+    },
+    "modelComponent": "TieredRoof + PalaceDome + Gate",
+    "summary": "The supreme legislative and judicial tribunal governing all laws, executions, and decrees of Soul Society.",
+    "architecture": "Situated within Seijōtōkyorin (Forest of Pure Living Towers), a secluded enclosure shielding the subterranean chamber where forty elders and six judges deliberate in absolute secrecy.",
+    "purpose": "Issues binding verdicts on Soul Reapers, nobles, and crimes against the balance of souls—authority even the Captain-Commander cannot legally override.",
+    "residents": [
+      "Forty Wise Elders & Six Judges — supreme tribunal magistrates",
+      "Nayura Kurosaki / post-war magistrate reforms under Shunsui Kyōraku",
+      "Sōsuke Aizen (usurper during Soul Society arc)"
+    ],
+    "events": [
+      "Sōsuke Aizen secretly assassinated all forty-six magistrates inside the compound and issued forged execution directives via Kyōka Suigetsu.",
+      "Tōshirō Hitsugaya and Rangiku Matsumoto uncovered the sealed bodies, exposing Aizen’s rebellion across Seireitei."
+    ],
+    "trivia": "Only authorized officers may approach Seijōtōkyorin; until Aizen’s rebellion, the compound remained sealed even from Gotei captains during deliberations.",
+    "spoilerLevel": "Soul Society arc",
+    "sources": [
+      "https://bleach.fandom.com/wiki/Central_46",
+      "https://bleach.fandom.com/wiki/Seij%C5%8Dt%C5%8Dkyorin"
+    ],
+    "details": "Seated at the political fulcrum of Seireitei, Central 46 rules on every sentence from Muken imprisonment to Sōkyoku execution.",
+    "images": [
+      {
+        "url": "/seireitei-throne-hall.webp",
+        "title": "Supreme Tribunal & Assembly Hall",
+        "caption": "The austere inner assembly chamber surrounded by towering stone tiers and ceremonial blue banners."
+      },
+      {
+        "url": "/seireitei-opening-gate.webp",
+        "title": "Sealed Inner Sanctum Threshold",
+        "caption": "Gilded barrier doors dividing the military headquarters from the high judicial district."
+      },
+      {
+        "url": "/seireitei-library.webp",
+        "title": "Codified Law & Decree Vault",
+        "caption": "Deep archival chambers preserving centuries of Soul Society judicial statutes and sealed verdicts."
+      }
+    ]
+  }
+]

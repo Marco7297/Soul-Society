@@ -1,0 +1,6 @@
+{
+  "name": "Soul Society",
+  "description": "SOUL SOCIETY (尸魂界) — An architectural and lore field guide from Tite Kubo's Bleach: Seireitei citadel, the Gotei 13 barracks, Sōkyoku Hill, Central 46, and the Royal Realm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
